@@ -9,7 +9,7 @@ I bought this FLSUN V400 for $30 after watching it sit on Facebook Marketplace f
 
 I was trying very hard not to buy another broken machine.
 
-Eventually, $30 won.
+Eventually, $30 and the curiosity to learn a "Delta" printer's kinematics won.
 
 The printer had reportedly stopped working following a nearby lightning strike. According to the previous owner, it briefly continued operating afterward before communication between the printer's MKS Robin Nano controller and Speeder Pad failed completely.
 
